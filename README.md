@@ -1,1 +1,1 @@
-# v2rayKubesail
+# passwallKubesail
